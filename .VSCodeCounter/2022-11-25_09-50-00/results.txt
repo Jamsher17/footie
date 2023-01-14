@@ -1,0 +1,74 @@
+Date : 2022-11-25 09:50:00
+Directory : c:\Users\nodir\Desktop\footie\footie
+Total : 34 files,  23770 codes, 94 comments, 151 blanks, all 24015 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          6 |     22,425 |         23 |          5 |     22,453 |
+| JavaScript         |         26 |      1,326 |         71 |        136 |      1,533 |
+| JSON with Comments |          1 |         10 |          0 |          1 |         11 |
+| Markdown           |          1 |          9 |          0 |          9 |         18 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                   |         34 |     23,770 |         94 |        151 |     24,015 |
+| .expo                                                               |          4 |         32 |          0 |         12 |         44 |
+| .expo-shared                                                        |          1 |          4 |          0 |          1 |          5 |
+| components                                                          |          6 |        161 |          6 |         27 |        194 |
+| components\Form                                                     |          1 |         12 |          0 |          3 |         15 |
+| components\Game                                                     |          2 |        104 |          6 |         13 |        123 |
+| components\UI                                                       |          3 |         45 |          0 |         11 |         56 |
+| constants                                                           |          1 |          4 |          0 |          1 |          5 |
+| data                                                                |          1 |         47 |          0 |          1 |         48 |
+| hooks                                                               |          1 |          9 |          0 |          2 |         11 |
+| navigation                                                          |          1 |         90 |          2 |          7 |         99 |
+| screens                                                             |          6 |        821 |         42 |         57 |        920 |
+| store                                                               |          3 |         58 |          0 |          8 |         66 |
+| util                                                                |          2 |         59 |          3 |         12 |         74 |
++---------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                            | language           | code       | comment    | blank      | total      |
++---------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\nodir\Desktop\footie\footie\.expo-shared\assets.json       | JSON               |          4 |          0 |          1 |          5 |
+| c:\Users\nodir\Desktop\footie\footie\.expo\README.md                | Markdown           |          9 |          0 |          9 |         18 |
+| c:\Users\nodir\Desktop\footie\footie\.expo\devices.json             | JSON               |          3 |          0 |          1 |          4 |
+| c:\Users\nodir\Desktop\footie\footie\.expo\packager-info.json       | JSON               |         10 |          0 |          1 |         11 |
+| c:\Users\nodir\Desktop\footie\footie\.expo\settings.json            | JSON with Comments |         10 |          0 |          1 |         11 |
+| c:\Users\nodir\Desktop\footie\footie\App.js                         | JavaScript         |         35 |          2 |          7 |         44 |
+| c:\Users\nodir\Desktop\footie\footie\app.json                       | JSON               |         18 |         23 |          0 |         41 |
+| c:\Users\nodir\Desktop\footie\footie\babel.config.js                | JavaScript         |          6 |          0 |          1 |          7 |
+| c:\Users\nodir\Desktop\footie\footie\components\Form\ProfileForm.js | JavaScript         |         12 |          0 |          3 |         15 |
+| c:\Users\nodir\Desktop\footie\footie\components\Game\Game.js        | JavaScript         |         84 |          6 |          8 |         98 |
+| c:\Users\nodir\Desktop\footie\footie\components\Game\GamesOutput.js | JavaScript         |         20 |          0 |          5 |         25 |
+| c:\Users\nodir\Desktop\footie\footie\components\UI\IconButton.js    | JavaScript         |         25 |          0 |          4 |         29 |
+| c:\Users\nodir\Desktop\footie\footie\components\UI\Input.js         | JavaScript         |         10 |          0 |          3 |         13 |
+| c:\Users\nodir\Desktop\footie\footie\components\UI\Touchable.js     | JavaScript         |         10 |          0 |          4 |         14 |
+| c:\Users\nodir\Desktop\footie\footie\config.js                      | JavaScript         |         16 |          2 |          5 |         23 |
+| c:\Users\nodir\Desktop\footie\footie\constants\Styles.js            | JavaScript         |          4 |          0 |          1 |          5 |
+| c:\Users\nodir\Desktop\footie\footie\data\DUMMY_GAMES.js            | JavaScript         |         47 |          0 |          1 |         48 |
+| c:\Users\nodir\Desktop\footie\footie\hooks\useFonts.js              | JavaScript         |          9 |          0 |          2 |         11 |
+| c:\Users\nodir\Desktop\footie\footie\metro.config.js                | JavaScript         |          4 |          0 |          4 |          8 |
+| c:\Users\nodir\Desktop\footie\footie\navigation\navigation.js       | JavaScript         |         90 |          2 |          7 |         99 |
+| c:\Users\nodir\Desktop\footie\footie\package-lock.json              | JSON               |     22,347 |          0 |          1 |     22,348 |
+| c:\Users\nodir\Desktop\footie\footie\package.json                   | JSON               |         43 |          0 |          1 |         44 |
+| c:\Users\nodir\Desktop\footie\footie\screens\AllGames.js            | JavaScript         |          6 |          0 |          4 |         10 |
+| c:\Users\nodir\Desktop\footie\footie\screens\AuthScreen.js          | JavaScript         |        212 |          4 |         18 |        234 |
+| c:\Users\nodir\Desktop\footie\footie\screens\GameDetails.js         | JavaScript         |        159 |         12 |          9 |        180 |
+| c:\Users\nodir\Desktop\footie\footie\screens\MyGames.js             | JavaScript         |         21 |          0 |          7 |         28 |
+| c:\Users\nodir\Desktop\footie\footie\screens\MyProfile.js           | JavaScript         |        180 |         17 |          8 |        205 |
+| c:\Users\nodir\Desktop\footie\footie\screens\NewUser.js             | JavaScript         |        243 |          9 |         11 |        263 |
+| c:\Users\nodir\Desktop\footie\footie\store\myGamesSlice.js          | JavaScript         |         21 |          0 |          3 |         24 |
+| c:\Users\nodir\Desktop\footie\footie\store\store.js                 | JavaScript         |          9 |          0 |          2 |         11 |
+| c:\Users\nodir\Desktop\footie\footie\store\userProfileSlice.js      | JavaScript         |         28 |          0 |          3 |         31 |
+| c:\Users\nodir\Desktop\footie\footie\temp.js                        | JavaScript         |         16 |         14 |          4 |         34 |
+| c:\Users\nodir\Desktop\footie\footie\util\date.js                   | JavaScript         |         29 |          0 |          1 |         30 |
+| c:\Users\nodir\Desktop\footie\footie\util\http.js                   | JavaScript         |         30 |          3 |         11 |         44 |
+| Total                                                               |                    |     23,770 |         94 |        151 |     24,015 |
++---------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
