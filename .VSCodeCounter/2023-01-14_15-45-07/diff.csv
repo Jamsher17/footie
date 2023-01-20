@@ -1,0 +1,37 @@
+"filename", "language", "JavaScript", "JSON", "JSON with Comments", "Markdown", "comment", "blank", "total"
+"c:\Users\nodir\Desktop\footie\footie\.expo-shared\assets.json", "JSON", 0, -4, 0, 0, 0, -1, -5
+"c:\Users\nodir\Desktop\footie\footie\.expo\README.md", "Markdown", 0, 0, 0, -9, 0, -9, -18
+"c:\Users\nodir\Desktop\footie\footie\.expo\devices.json", "JSON", 0, -3, 0, 0, 0, -1, -4
+"c:\Users\nodir\Desktop\footie\footie\.expo\packager-info.json", "JSON", 0, -10, 0, 0, 0, -1, -11
+"c:\Users\nodir\Desktop\footie\footie\.expo\settings.json", "JSON with Comments", 0, 0, -10, 0, 0, -1, -11
+"c:\Users\nodir\Desktop\footie\footie\App.js", "JavaScript", -35, 0, 0, 0, -2, -7, -44
+"c:\Users\nodir\Desktop\footie\footie\app.json", "JSON", 0, -18, 0, 0, -23, 0, -41
+"c:\Users\nodir\Desktop\footie\footie\babel.config.js", "JavaScript", -6, 0, 0, 0, 0, -1, -7
+"c:\Users\nodir\Desktop\footie\footie\components\Form\ProfileForm.js", "JavaScript", -12, 0, 0, 0, 0, -3, -15
+"c:\Users\nodir\Desktop\footie\footie\components\Game\Game.js", "JavaScript", -84, 0, 0, 0, -6, -8, -98
+"c:\Users\nodir\Desktop\footie\footie\components\Game\GamesOutput.js", "JavaScript", -20, 0, 0, 0, 0, -5, -25
+"c:\Users\nodir\Desktop\footie\footie\components\UI\Button.js", "JavaScript", 40, 0, 0, 0, 0, 3, 43
+"c:\Users\nodir\Desktop\footie\footie\components\UI\IconButton.js", "JavaScript", -25, 0, 0, 0, 0, -4, -29
+"c:\Users\nodir\Desktop\footie\footie\components\UI\Input.js", "JavaScript", 21, 0, 0, 0, 0, 1, 22
+"c:\Users\nodir\Desktop\footie\footie\components\UI\Touchable.js", "JavaScript", -10, 0, 0, 0, 0, -4, -14
+"c:\Users\nodir\Desktop\footie\footie\config.js", "JavaScript", -16, 0, 0, 0, -2, -5, -23
+"c:\Users\nodir\Desktop\footie\footie\constants\Styles.js", "JavaScript", -4, 0, 0, 0, 0, -1, -5
+"c:\Users\nodir\Desktop\footie\footie\data\DUMMY_GAMES.js", "JavaScript", -47, 0, 0, 0, 0, -1, -48
+"c:\Users\nodir\Desktop\footie\footie\hooks\useFonts.js", "JavaScript", -9, 0, 0, 0, 0, -2, -11
+"c:\Users\nodir\Desktop\footie\footie\metro.config.js", "JavaScript", -4, 0, 0, 0, 0, -4, -8
+"c:\Users\nodir\Desktop\footie\footie\navigation\navigation.js", "JavaScript", -90, 0, 0, 0, -2, -7, -99
+"c:\Users\nodir\Desktop\footie\footie\package-lock.json", "JSON", 0, -22347, 0, 0, 0, -1, -22348
+"c:\Users\nodir\Desktop\footie\footie\package.json", "JSON", 0, -43, 0, 0, 0, -1, -44
+"c:\Users\nodir\Desktop\footie\footie\screens\AllGames.js", "JavaScript", -6, 0, 0, 0, 0, -4, -10
+"c:\Users\nodir\Desktop\footie\footie\screens\AuthScreen.js", "JavaScript", -212, 0, 0, 0, -4, -18, -234
+"c:\Users\nodir\Desktop\footie\footie\screens\GameDetails.js", "JavaScript", -159, 0, 0, 0, -12, -9, -180
+"c:\Users\nodir\Desktop\footie\footie\screens\MyGames.js", "JavaScript", -21, 0, 0, 0, 0, -7, -28
+"c:\Users\nodir\Desktop\footie\footie\screens\MyProfile.js", "JavaScript", -180, 0, 0, 0, -17, -8, -205
+"c:\Users\nodir\Desktop\footie\footie\screens\NewUser.js", "JavaScript", -243, 0, 0, 0, -9, -11, -263
+"c:\Users\nodir\Desktop\footie\footie\store\myGamesSlice.js", "JavaScript", -21, 0, 0, 0, 0, -3, -24
+"c:\Users\nodir\Desktop\footie\footie\store\store.js", "JavaScript", -9, 0, 0, 0, 0, -2, -11
+"c:\Users\nodir\Desktop\footie\footie\store\userProfileSlice.js", "JavaScript", -28, 0, 0, 0, 0, -3, -31
+"c:\Users\nodir\Desktop\footie\footie\temp.js", "JavaScript", -16, 0, 0, 0, -14, -4, -34
+"c:\Users\nodir\Desktop\footie\footie\util\date.js", "JavaScript", -29, 0, 0, 0, 0, -1, -30
+"c:\Users\nodir\Desktop\footie\footie\util\http.js", "JavaScript", -30, 0, 0, 0, -3, -11, -44
+"Total", "-", -1255, -22425, -10, -9, -94, -144, -23937

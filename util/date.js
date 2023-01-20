@@ -37,3 +37,5 @@ export function getCurrentDate(day) {
   }
   return now;
 }
+
+export function timeFireToArena() {}

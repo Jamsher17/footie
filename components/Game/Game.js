@@ -79,7 +79,7 @@ function Game({ game }) {
 
 const styles = StyleSheet.create({
   gameContainer: {
-    backgroundColor: "#e5e5e5",
+    // backgroundColor: "#e5e5e5",
     //--margins--
     marginVertical: 10,
     marginHorizontal: 20,
@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
     shadowRadius: 1,
     //--border props--
     borderRadius: 20,
-    borderColor: GlobalStyles.colors.accenta,
+    borderColor: GlobalStyles.colors.secondary,
     borderWidth: 1,
     overflow: "hidden",
     //--dimensions--

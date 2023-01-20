@@ -81,21 +81,6 @@ function AllGames({ navigation }) {
             )}
           />
         </View>
-        <View style={{ width: "100%", height: "100%", position: "absolute" }}>
-          <Pressable
-            onPress={() => {
-              navigation.jumpTo("Забронировать");
-            }}
-            style={{
-              padding: 10,
-              flex: 1,
-              justifyContent: "center",
-              alignItems: "flex-end",
-            }}
-          >
-            <Ionicons name="checkmark-circle-outline" size={60} color="black" />
-          </Pressable>
-        </View>
       </View>
     );
   }

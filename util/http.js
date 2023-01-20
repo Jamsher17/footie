@@ -5,3 +5,10 @@ export function firestoreToArena(game) {
     day_time: game.data().day_time.toDate(),
   };
 }
+
+export function fireVenueToArena(venue) {
+  return {
+    ...venue.data(),
+    id: venue.id,
+  };
+}
